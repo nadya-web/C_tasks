@@ -11,6 +11,6 @@ int main()
 
     ft_ft(&number);
     //printf("%d", number);
-    
+
     return 0;
 }
