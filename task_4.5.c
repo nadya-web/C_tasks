@@ -12,6 +12,6 @@ int main(int argc, const char *argv[])
     int number = atoi(argv[1]);
     int res = ft_sqrt(number);
     printf("Корень из числа %d = %d\n", number, res);
-    
+
     return 0;
 }

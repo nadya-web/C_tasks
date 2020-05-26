@@ -11,7 +11,7 @@ int ft_recursive_power (int num, int power)
     {
         return num * ft_recursive_power(num, power-1);
     }
-    
+
 }
 
 int main (int argc, char *argv[])

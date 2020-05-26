@@ -11,7 +11,7 @@ int ft_recursive_factorial (int num)
     {
         return num * ft_recursive_factorial(num-1);
     }
-    
+
 }
 
 int main (int argc, char *argv[])

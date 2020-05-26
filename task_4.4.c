@@ -11,7 +11,7 @@ int ft_fibonacci (int ind)
     {
         return ft_fibonacci(ind-1) + ft_fibonacci(ind-2);
     }
-    
+
 }
 
 int main (int argc, const char *argv[])
